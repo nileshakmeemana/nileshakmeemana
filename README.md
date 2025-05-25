@@ -5,6 +5,6 @@ I'm a software engineer who is passionate about making contributing to open-sour
 
 ## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="right" width="150" height="150" src="https://github.com/nileshakmeemana/nileshakmeemana/blob/main/animatedgif/keyboard.gif?raw=true"></a>
 
-- Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
-- Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
+- Learning in public on <a href="https://g.dev/nnakmeemana">GDG</a> or <a href="https://www.nilesh.dev">nilesh.dev</a> 📹 ✍🏾
+- Tinkering with interactions on <a href="https://stackoverflow.com/users/23166289"> Stack Overflow</a> 🏓
 - Sharing updates on <a href="www.linkedin.com/in/nilesh-akmeemana-509731241">LinkedIn</a> 💼
