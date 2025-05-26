@@ -5,18 +5,6 @@ I'm a NSBM computing undergraduate who is passionate about the IT industry and a
 
 # My Technical Stack:
 
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&background=white&border=61DAFB)](https://reactjs.org/)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&background=white&border=000000)](https://nextjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&background=white&border=3178C6)](https://www.typescriptlang.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&background=white&border=339933)](https://nodejs.org/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&background=white&border=3776AB)](https://www.python.org/)
-[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&background=white&border=00ADD8)](https://golang.org/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&background=white&border=336791)](https://www.postgresql.org/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&background=white&border=2496ED)](https://www.docker.com/)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&background=white&border=326CE5)](https://kubernetes.io/)
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&background=white&border=007396)](https://www.java.com/)
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&background=white&border=00599C)](https://isocpp.org/)
-
 ## Find me around the web 🌎: <a href="https://github.com/sponsors/nileshakmeemana"><img align="right" width="150" height="150" src="https://github.com/nileshakmeemana/nileshakmeemana/blob/main/animatedgif/keyboard.gif?raw=true"></a>
 
 - Learning in public on <a href="https://g.dev/nnakmeemana">GDG</a> or <a href="https://www.nilesh.dev">nilesh.dev</a> 📹 ✍🏾
