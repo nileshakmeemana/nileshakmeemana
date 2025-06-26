@@ -5,7 +5,7 @@ I'm a NSBM computing undergraduate who is passionate about the IT industry and a
 
 ## My Technical Stack:
 
-<img src="https://raw.githubusercontent.com/nileshakmeemana/nileshakmeemana/main/Tech Stack.png" alt="image that says Nilesh Akmeemana's Technical Stack">
+<img src="https://raw.githubusercontent.com/nileshakmeemana/nileshakmeemana/main/Tech-Stack.png" alt="image that says Nilesh Akmeemana's Technical Stack">
 
 ## Find me around the web 🌎: <a href="https://github.com/sponsors/nileshakmeemana"><img align="right" width="150" height="150" src="https://github.com/nileshakmeemana/nileshakmeemana/blob/main/animatedgif/keyboard.gif?raw=true"></a>
 
