@@ -1,6 +1,6 @@
 # Hi, I'm Nilesh 👋 👨‍💻
 
-<img src="https://raw.githubusercontent.com/nileshakmeemana/nileshakmeemana/main/gh-header-image.png" alt="banner that says Nilesh Akmeemana - I'm a NSBM computing undergraduate who is passionate about the IT industry and aspires to be a software engineer">
+<img src="https://raw.githubusercontent.com/nileshakmeemana/nileshakmeemana/main/gh-header-image_2.png" alt="banner that says Nilesh Akmeemana - I'm a NSBM computing undergraduate who is passionate about the IT industry and aspires to be a software engineer">
 I'm a Computing undergraduate at NSBM Green University with a strong passion for Software Engineering, Quality Assurance, and emerging technologies. Enthusiastic about designing scalable applications, writing clean and maintainable code, ensuring software quality through testing and automation, and solving real-world problems through technology. Continuously learning modern development practices, cloud technologies, AI, and system design while building projects that deliver both functionality and reliability.
 
 ## My Technical Stack 🛠️:
